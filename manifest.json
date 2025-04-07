@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Streamlit App Extension",
+    "version": "1.0",
+    "description": "Quick access to Streamlit App",
+    "permissions": ["activeTab"],
+    "icons": {
+      "128": "icon128.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon128.png"
+    }
+  }
+  
