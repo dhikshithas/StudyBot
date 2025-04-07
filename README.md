@@ -2,7 +2,7 @@
 
 - **Instant Insights**: Extracts and analyses text from uploaded PDF documents to provide instant insights.
 - **Retrieval-Augmented Generation**: Utilizes Google's Generative AI model Gemini-PRO for high-quality, contextually relevant answers.
-- 
+  
 ## Getting Started
 
 ### Prerequisites
